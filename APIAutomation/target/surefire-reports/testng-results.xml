@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="co.setu.api.automation.GetCorporateListTest" duration-ms="6459" started-at="2020-08-15T08:07:13Z" finished-at="2020-08-15T08:07:19Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6459" started-at="2020-08-15T08:07:13Z" finished-at="2020-08-15T08:07:19Z">
+      <class name="co.setu.api.automation.GetCorporateListTest">
+        <test-method status="PASS" signature="corporateListAPITest2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:co.setu.api.automation.GetCorporateListTest@26ba2a48]" name="corporateListAPITest2" duration-ms="4630" started-at="2020-08-15T13:37:13Z" data-provider="Negative" finished-at="2020-08-15T13:37:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Learn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bcd090uu2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2027]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[John Foe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corporateListAPITest2 -->
+        <test-method status="PASS" signature="corporateListAPITest2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:co.setu.api.automation.GetCorporateListTest@26ba2a48]" name="corporateListAPITest2" duration-ms="1790" started-at="2020-08-15T13:37:17Z" data-provider="Negative" finished-at="2020-08-15T13:37:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Learn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bcd090uu2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2027]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[John Foe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corporateListAPITest2 -->
+      </class> <!-- co.setu.api.automation.GetCorporateListTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- co.setu.api.automation.GetCorporateListTest -->
+</testng-results>

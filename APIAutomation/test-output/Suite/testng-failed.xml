@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="co.setu.api.automation.GetCorporateListTest">
+        <methods>
+          <include name="corporateListAPITest" invocation-numbers="0 1 2 3 4"/>
+        </methods>
+      </class> <!-- co.setu.api.automation.GetCorporateListTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14330" started-at="2020-08-17T12:55:32Z" finished-at="2020-08-17T12:55:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14330" started-at="2020-08-17T12:55:32Z" finished-at="2020-08-17T12:55:47Z">
+      <class name="co.setu.api.automation.CreateJiraTicket">
+        <test-method status="PASS" signature="createATicket(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:co.setu.api.automation.CreateJiraTicket@214b199c]" name="createATicket" duration-ms="4662" started-at="2020-08-17T18:25:33Z" data-provider="PositiveData" finished-at="2020-08-17T18:25:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Create action not working]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Create action throws unexpected error]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5eb97ba3c5c6230baa5d00fe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createATicket -->
+        <test-method status="PASS" signature="createATicket(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:co.setu.api.automation.CreateJiraTicket@214b199c]" name="createATicket" duration-ms="2432" started-at="2020-08-17T18:25:38Z" data-provider="PositiveData" finished-at="2020-08-17T18:25:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Issue in ticket booking]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ticket booking scenario is failing]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5eb97ba3c5c6230baa5d00fe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createATicket -->
+        <test-method status="PASS" signature="createATicket(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:co.setu.api.automation.CreateJiraTicket@214b199c]" name="createATicket" duration-ms="2203" started-at="2020-08-17T18:25:40Z" data-provider="PositiveData" finished-at="2020-08-17T18:25:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Issue in ticket cancellation]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ticket cancellation scenario is failing]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5eb97ba3c5c6230baa5d00fe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createATicket -->
+        <test-method status="PASS" signature="createATicket(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:co.setu.api.automation.CreateJiraTicket@214b199c]" name="createATicket" duration-ms="2284" started-at="2020-08-17T18:25:42Z" data-provider="PositiveData" finished-at="2020-08-17T18:25:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Issue in view panel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[View panel alignment of items are incorrect]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5eb97ba3c5c6230baa5d00fe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createATicket -->
+        <test-method status="PASS" signature="createATicket(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:co.setu.api.automation.CreateJiraTicket@214b199c]" name="createATicket" duration-ms="2082" started-at="2020-08-17T18:25:45Z" data-provider="PositiveData" finished-at="2020-08-17T18:25:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Issue in ticket pricing]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ticket pricings are not in correct format]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5eb97ba3c5c6230baa5d00fe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createATicket -->
+        <test-method status="PASS" signature="createATicket(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:co.setu.api.automation.CreateJiraTicket@214b199c]" name="createATicket" duration-ms="0" started-at="2020-08-17T18:25:47Z" data-provider="PositiveData" finished-at="2020-08-17T18:25:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Issue in ticket booking]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ticket booking scenario is failing]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createATicket -->
+        <test-method status="PASS" signature="createATicket(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:co.setu.api.automation.CreateJiraTicket@214b199c]" name="createATicket" duration-ms="3" started-at="2020-08-17T18:25:47Z" data-provider="PositiveData" finished-at="2020-08-17T18:25:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Issue in ticket cancellation]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ticket cancellation scenario is failing]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5eb97ba3c5c6230baa5d00fe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createATicket -->
+      </class> <!-- co.setu.api.automation.CreateJiraTicket -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
